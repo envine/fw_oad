@@ -66,12 +66,6 @@
     "imageType" : "bim"
   },
   {
-    "fileName" : "CC2652R7/simple_peripheral_oad_onchip_LP_CC2652R7_tirtos7_ticlang_oad-v2.0.0.bin",
-    "version" : "7.10.00.98.0.0+0",
-    "hwType" : "CC2652R7",
-    "imageType" : "bim"
-  },
-  {
     "fileName" : "CC2652R7/wireless_mesh_oad.bin",
     "version" : "7.10.00.98.0.0+0",
     "hwType" : "CC2652R7",
