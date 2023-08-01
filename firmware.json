@@ -2,7 +2,7 @@
   {
     "fileName" : "i3/wireless_mesh_oad.bin",
     "version" : "7.10.00.23_1.0.0+0",
-    "hwType" : "i3",
+    "hwType" : "CC2652R7",
     "imageType" : "mcuboot"
-  },
+  }
 ]
